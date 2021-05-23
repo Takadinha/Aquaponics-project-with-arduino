@@ -12,8 +12,7 @@
 ## Descrição resumida do projeto:
 
 Esse é um projeto com foco em solucionar um dos problemas comuns da aquaponia. Com ajuda da plataforma "arduino" e sua devida programação o objetivo é criar um monitoramento e reposição dos tanques dos peixes com água tratada de forma automatica.
-_______________________________________
-
+______________________________________
 
  
 
