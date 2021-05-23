@@ -2,7 +2,7 @@
 
 ## Turma: 05H11
 
-# *Aquaponics project with arduino*                          
+# *Aquaponics project with arduino*  ![](https://i.pinimg.com/originals/7c/d5/63/7cd563654dbe09f1e59385b42a3ecb7d.png)                        
 
 ## Integrantes do grupo:
 
@@ -13,3 +13,8 @@
 
 Esse é um projeto com foco em solucionar um dos problemas comuns da aquaponia. Com ajuda da plataforma "arduino" e sua devida programação o objetivo é criar um monitoramento e reposição dos tanques dos peixes com água tratada de forma automatica.
 _______________________________________
+
+
+ 
+
+ 
